@@ -20,6 +20,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer based in Sydney, Aus
 ### Get in touch
 - 👥 LinkedIn: [Brodie Hunt](https://www.linkedin.com/in/brodie-hunt-8ab1311a4/)
 - 🐦 Twitter: [brodiehunt_](https://twitter.com/brodiehunt_)
+- Portfolio: [My portfolio](https://brodie-hunt-portfolio.netlify.app/)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=brodiehunt)  
 - 🔭 I’m currently working on this page. 
